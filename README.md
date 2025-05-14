@@ -1,5 +1,3 @@
----
-
 # AuraSearch: A Hierarchical RAG System with Interactive Knowledge Visualization
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
