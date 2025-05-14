@@ -3,8 +3,8 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
 
 ## Overview
-
-AuraSearch is a novel Retrieval Augmented Generation (RAG) system designed to enhance the relevance, explainability, and user control of knowledge retrieval compared to traditional RAG approaches. It leverages a hierarchical semantic structure ("AuraGrid") built from embedding-based clustering to organize data, enabling efficient traversal and targeted context aggregation for Large Language Models (LLMs).  The core innovation lies in its interactive 2D/3D visualization, allowing users to trace the retrieval path and explore the knowledge base visually.
+### Adaptive Unified Retrieval & Augmentation Search (AURASearch)
+AuraSearch is a novel Retrieval Augmented Generation (RAG) system designed to enhance the efficiency of data retrieval with the addition of relevance, explainability, and user control of knowledge retrieval compared to traditional RAG approaches. It leverages a hierarchical semantic structure ("AuraGrid") built from embedding-based clustering to organize data, enabling efficient traversal and targeted context aggregation for Large Language Models (LLMs).  The core innovation lies in its interactive 2D/3D visualization, allowing users to trace the retrieval path and explore the knowledge base visually.
 
 ## Key Features
 
