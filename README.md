@@ -1,5 +1,3 @@
-Alright, here's the AuraSearch concept formatted as a README file, suitable for documentation and initial exploration.  I've aimed to be comprehensive while retaining readability. I'll use markdown formatting.
-
 ---
 
 # AuraSearch: A Hierarchical RAG System with Interactive Knowledge Visualization
